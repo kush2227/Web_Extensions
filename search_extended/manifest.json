@@ -1,9 +1,9 @@
 {
 "manifest_version": 2,
-"name" : "No Default Search Engine",
+"name" : "GlobalEngine",
 "description" : "Search the selected text in non-default search engine.",
 
-"homepage_url": "http://iamvp7.github.io/",
+"homepage_url": "https://github.com/kush2227/Web_Extensions",
   "version": "1.0",
 
 "icons": {
